@@ -8,4 +8,3 @@ void addNum(int array[], int &size, int num);
 void removeNum(int array[], int &size, int index);
 
 #endif // FUNCTIONS_H
-// End of functions.h

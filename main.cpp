@@ -8,7 +8,7 @@ int main() {
     ifstream inputFile("/Users/samsafly/Desktop/Semester 2 - Soph/CS 303/CS303_SamSafly_Assignment1/A1input.txt"); //open input file
     if (!inputFile) { //if file can't be opened, output error message
         cerr << "Unable to open file";
-        return 1; //exit program
+        return 1; //exit the program
     }
 
     int array[100]; //declare array of available size 100

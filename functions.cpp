@@ -58,4 +58,3 @@ void removeNum(int array[], int &size, int index) {
     size--; //decrement the size to get rid of empty space
     cout << "Number at index " << index << " removed." << endl; //confirmation of removal at specific index
 }
-// End of functions.cpp
